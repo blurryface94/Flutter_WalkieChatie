@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671176839967",
+    "firebase_url": "https://flutterwalkiechatie.firebaseio.com",
+    "project_id": "flutterwalkiechatie",
+    "storage_bucket": "flutterwalkiechatie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671176839967:android:9bf10797daed1a7971d62a",
+        "android_client_info": {
+          "package_name": "alkasebastian.walkiechatie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671176839967-g08k9rofjg95gqtphl200rdur6gpi6ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAExBaPFuheZ61UCHNrvdpEuxLxoPdRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671176839967-g08k9rofjg95gqtphl200rdur6gpi6ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
